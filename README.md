@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kadam</h1>
-<h3 align="center">A passionate and enthusiastic Web Developer from India</h3>
+<h3 align="center">A Passionate and Enthusiastic Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdkadam&label=Profile%20views&color=0e75b6&style=flat" alt="yashdkadam" /> </p>
-
-- 📫 How to reach me **kadamdyash55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
